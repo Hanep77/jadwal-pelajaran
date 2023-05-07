@@ -1,0 +1,217 @@
+{
+  "xirpla": [
+    {
+      "hari": "Senin",
+      "pelajaran": [
+        "uparaca bendera",
+        "PPL",
+        "PPL",
+        "PPL",
+        "istirahat",
+        "PPL",
+        "PBO",
+        "PBO",
+        "PBO",
+        "PBO"
+      ],
+      "waktu": [
+        "07.30 - 08.00",
+        "08.00 - 08.40",
+        "08.40 - 09.20",
+        "09.20 - 10.00",
+        "10.00 - 10.15",
+        "10.15 - 10.55",
+        "10.55 - 11.35",
+        "11.35 - 12.15",
+        "12.15 - 12.55",
+        "12.55 - 13.35"
+      ],
+      "guru": [
+        "-",
+        "Bu Widi",
+        "Bu Widi",
+        "Bu Widi",
+        "-",
+        "Bu Widi",
+        "Bu Elis",
+        "Bu Elis",
+        "Bu Elis",
+        "Bu Elis"
+      ]
+    },
+    {
+      "hari": "Selasa",
+      "pelajaran": [
+        "PAI",
+        "PAI",
+        "PAI",
+        "PBO",
+        "istirahat",
+        "PBO",
+        "PBO",
+        "Kitab kuning",
+        "Kitab kuning"
+      ],
+      "waktu": [
+        "07.30 - 08.10",
+        "08.10 - 08.50",
+        "08.50 - 09.30",
+        "09.30 - 10.10",
+        "10.10 - 10.30",
+        "10.30 - 11.10",
+        "11.10 - 11.50",
+        "11.50 - 12.30",
+        "12.30 - 13.10"
+      ],
+      "guru": [
+        "Pak Lutfi",
+        "Pak Lutfi",
+        "Pak Lutfi",
+        "Bu Elis",
+        "-",
+        "Bu Elis",
+        "Bu Elis",
+        "Pak Haris",
+        "Pak Haris"
+      ]
+    },
+    {
+      "hari": "Rabu",
+      "pelajaran": [
+        "PKN",
+        "PKN",
+        "PENJAS",
+        "PENJAS",
+        "istirahat",
+        "Pemrograman Web",
+        "Pemrograman Web",
+        "Matematika",
+        "Matematika"
+      ],
+      "waktu": [
+        "07.30 - 08.10",
+        "08.10 - 08.50",
+        "08.50 - 09.30",
+        "09.30 - 10.10",
+        "10.10 - 10.30",
+        "10.30 - 11.10",
+        "11.10 - 11.50",
+        "11.50 - 12.30",
+        "12.30 - 13.10"
+      ],
+      "guru": [
+        "Pak Jenal",
+        "Pak Jenal",
+        "Pak Hendra",
+        "Pak Hendra",
+        "-",
+        "Bu Widi",
+        "Bu Widi",
+        "Pak Ahmad",
+        "Pak Ahmad"
+      ]
+    },
+    {
+      "hari": "Kamis",
+      "pelajaran": [
+        "KWU",
+        "KWU",
+        "Matematika",
+        "Matematika",
+        "istirahat",
+        "BK",
+        "Bahasa Indonesia",
+        "Bahasa Indonesia",
+        "Bahasa Indonesia"
+      ],
+      "waktu": [
+        "07.30 - 08.10",
+        "08.10 - 08.50",
+        "08.50 - 09.30",
+        "09.30 - 10.10",
+        "10.10 - 10.30",
+        "10.30 - 11.10",
+        "11.10 - 11.50",
+        "11.50 - 12.30",
+        "12.30 - 13.10"
+      ],
+      "guru": [
+        "Pak Irfan",
+        "Pak Irfan",
+        "Pak Ahmad",
+        "Pak Ahmad",
+        "-",
+        "Bu Putri",
+        "Bu Ai",
+        "Bu Ai",
+        "Bu Ai"
+      ]
+    },
+    {
+      "hari": "Jum'at",
+      "pelajaran": [
+        "KWU",
+        "KWU",
+        "KWU",
+        "Bahasa Inggris",
+        "istirahat",
+        "Bahasa Inggris",
+        "Bahasa Inggris"
+      ],
+      "waktu": [
+        "07.30 - 08.05",
+        "08.05 - 08.40",
+        "08.40 - 09.15",
+        "09.15 - 09.45",
+        "09.45 - 10.00",
+        "10.00 - 10.30",
+        "10.30 - 11.00"
+      ],
+      "guru": [
+        "Pak Irfan",
+        "Pak Irfan",
+        "Pak Irfan",
+        "Bu Ani",
+        "-",
+        "Bu Ani",
+        "Bu Ani"
+      ]
+    },
+    {
+      "hari": "Sabtu",
+      "pelajaran": [
+        "PBO",
+        "PBO",
+        "PBO",
+        "PBO",
+        "istirahat",
+        "Pemrograman Web",
+        "Pemrograman Web",
+        "Pemrograman Web",
+        "Pemrograman Web"
+      ],
+      "waktu": [
+        "07.30 - 08.10",
+        "08.10 - 08.50",
+        "08.50 - 09.30",
+        "09.30 - 10.10",
+        "10.10 - 10.30",
+        "10.30 - 11.10",
+        "11.10 - 11.50",
+        "11.50 - 12.30",
+        "12.30 - 13.10"
+      ],
+      "guru": [
+        "Bu Elis",
+        "Bu Elis",
+        "Bu Elis",
+        "Bu Elis",
+        "-",
+        "Bu Widi",
+        "Bu Widi",
+        "Bu Widi",
+        "Bu Widi"
+      ]
+    }
+  ]
+}
